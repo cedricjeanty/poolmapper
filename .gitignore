@@ -1,3 +1,4 @@
 .pyc
 venv
 python
+tf_files/training_data
